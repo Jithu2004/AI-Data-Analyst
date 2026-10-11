@@ -42,11 +42,38 @@ The application helps users transform raw data into understandable results, tren
 
 A user uploads a sales dataset and asks:
 
-> Which product generated the highest revenue last month?
 
-The application interprets the request, performs the necessary calculations on the available data, and presents the result.
+## 📊 Example Analysis: Profit by Brand
 
-Other questions may include identifying top-performing categories, comparing regional sales, finding missing values, and examining trends over time.
+AI Data Analyst can analyze profitability across different brands by processing the dataset and ranking brands according to their total profit.
+
+### 💬 Example Question
+
+> What is the profit by brand?
+
+
+### 📋 Analysis Results
+
+The application displays a ranked table containing brand names and their corresponding profit values.
+
+<img width="1737" height="640" alt="image" src="https://github.com/user-attachments/assets/7306be32-b6a5-4cf8-8e04-feccdd00cc02" />
+
+
+### 📈 Visualization
+
+<img width="1822" height="618" alt="Screenshot 2026-10-11 114407" src="https://github.com/user-attachments/assets/5a796c09-d8c3-4f08-9011-411e48ea4004" />
+
+
+### 🔍 Key Insights
+
+- **Apple** has the highest profit among the brands shown, at approximately 840.24 million.
+- **Samsung** ranks second, with approximately 474.69 million in profit.
+- **OnePlus** ranks third, with approximately 212.25 million in profit.
+- The horizontal bar chart makes differences in brand profitability easy to compare.
+- The ranked table provides precise profit values for further analysis.
+
+*Note: These results are based on the displayed dataset and the values shown in the application. Profit units and currency are not specified.*
+
 
 ## 🛠️ Technology Stack
 
