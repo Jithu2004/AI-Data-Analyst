@@ -150,13 +150,4 @@ A key design principle is the separation of AI interpretation from numerical exe
 - Reduce the time needed to explore and understand datasets.
 - Demonstrate practical applications of AI, data analytics, and software development.
 
-## 👨‍💻 Author
 
-**Jithu**
-
-GitHub: [Jithu2004](https://github.com/Jithu2004)
-<img width="1737" height="602" alt="image" src="https://github.com/user-attachments/assets/00715123-5ed1-4a19-9af4-7ea37f360a26" />
-
----
-
-*Built with Python, Streamlit, Pandas, and Google Gemini.*
