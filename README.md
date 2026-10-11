@@ -129,9 +129,6 @@ A key design principle is the separation of AI interpretation from numerical exe
 
 GitHub: [Jithu2004](https://github.com/Jithu2004)
 
-## 📄 License
-
-Choose an appropriate open-source license before distributing or reusing this project.
 
 ---
 
